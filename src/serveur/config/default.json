@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Nigerian:Nigerian@cluster0.ehtq5.mongodb.net/user?retryWrites=true&w=majority",
+    "jwtSecret":"sl_myJwtSecret"
+}
